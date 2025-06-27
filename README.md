@@ -1,2 +1,6 @@
 # CS2-Role-Evaluator-Frontend
-Frontend
+```sh
+npm i
+
+npm run dev
+```
